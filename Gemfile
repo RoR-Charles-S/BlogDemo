@@ -10,10 +10,10 @@ gem 'bulma-rails', '~> 0.7.5'
 gem 'autoprefixer-rails'
 gem 'simple_form'
 
+gem 'bootstrap-sass', '~> 3.4.1'
+gem 'sassc-rails', '>= 2.1.0'
+
 gem 'font-awesome-sass', '~> 5.6.1'
-
-
-
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'

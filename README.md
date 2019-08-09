@@ -1,6 +1,6 @@
 # README
 
-Hello World this repository is used to document different projects that I am doing from scratch to expand my knowledge of programming in Ruby. Thank you for visiting.
+Hello World this repository is used to document different projects that I am doing from scratch to expand my knowledge of programming in Ruby. Thank you for visiting..
 
 
 This README would normally document whatever steps are necessary to get the

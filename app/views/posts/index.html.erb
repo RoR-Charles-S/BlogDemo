@@ -2,10 +2,12 @@
 <section class="section">
     <div class="container">
         <% @posts.each do |post| %>
+        <%= link_to post_path(post) do %>
         <div class="card">
             <div class="card-content">
                 <div class="media">
                     <div class="media-content">
+
                         <div class="title is-4">
                             <%= post.title %>
                         </div>
@@ -19,7 +21,9 @@
                 </div>
             </div>
         </div>
-
+        <% end %>
         <% end %>
     </div>
 </section>
+
+
